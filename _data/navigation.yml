@@ -10,5 +10,7 @@ main:
     url: "/contact-us"
   - title: "Members"
     url: "/members"
+  - title: "Undergrad Chapter"
+    url: "https://ritpikapp.org/"
   # - title: "Sitemap"
   #   url: /sitemap/

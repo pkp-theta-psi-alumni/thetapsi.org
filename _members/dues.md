@@ -1,7 +1,6 @@
 ---
 title: "Dues"
 layout: single
-permalink: /dues/
 ---
 
 As an initiated member of Pi Kappa Phi you took a vow to be a brother for life.

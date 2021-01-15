@@ -28,10 +28,10 @@ feature_row:
   - image_path: 
     alt: "Areas of Focus"
     title: "Our Areas of Focus"
-    excerpt: "Each alumni chapter has five areas of focus."
+    excerpt: "Each alumni chapter has five areas of focus: Infrastructure, Information, Interaction, Involvement and Investment."
     url: "/areas-of-focus"
     btn_class: "btn--primary"
-    btn_label: "<i class='fas fa-bullseye'></i> Download"      
+    btn_label: "<i class='fas fa-bullseye'></i> Learn More"      
 ---
 
 {% include feature_row %}

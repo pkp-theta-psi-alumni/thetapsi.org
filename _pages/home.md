@@ -26,12 +26,12 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "<i class='fas fa-newspaper'></i> See the latest"
   - image_path: 
-    alt: "Bylaws"
-    title: "Bylaws"
-    excerpt: "Check out our governing bylaws."
-    url: "/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf"
+    alt: "Areas of Focus"
+    title: "Our Areas of Focus"
+    excerpt: "Each alumni chapter has five areas of focus."
+    url: "/areas-of-focus"
     btn_class: "btn--primary"
-    btn_label: "<i class='fas fa-download'></i> Download"      
+    btn_label: "<i class='fas fa-bullseye'></i> Download"      
 ---
 
 {% include feature_row %}

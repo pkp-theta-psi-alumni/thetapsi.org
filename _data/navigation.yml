@@ -10,6 +10,8 @@ main:
     url: "/contact-us"
   - title: "Members"
     url: "/members"
+  - title: "Areas of Focus"
+    url: "/areas-of-focus"
   - title: "Undergrad Chapter"
     url: "https://ritpikapp.org/"
   # - title: "Sitemap"

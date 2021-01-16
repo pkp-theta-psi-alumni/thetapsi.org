@@ -4,13 +4,12 @@
     <th>Initiation #</th>
     <th>LinkedIn</th>
   </tr>
-
 {% for member in site.data.member_bios %}
   <tr>
     <td>{{ member.name }}</td>
     <td>{{ member.initiation_number }}</td>
   {% if member.linkedin_url != null %}
-    <td><i class='fab fa-linkedin'></i> <a href="{{ member.linkedin_url }}">Connect </a></td>
+    <td><i class='fab fa-linkedin'></i> <a href="{{ member.linkedin_url }}" target="_blank">Connect</a></td>
   {% endif %}
 </tr>
 {% endfor %}

@@ -10,7 +10,7 @@
     <td>{{ member.name }}</td>
     <td>{{ member.initiation_number }}</td>
   {% if member.linkedin_url != null %}
-    <td><a href="{{ member.linkedin_url }}"><i class='fab fa-linkedin'></i> Connect </a>/td>
+    <td><i class='fab fa-linkedin'></i> <a href="{{ member.linkedin_url }}">Connect </a></td>
   {% endif %}
 </tr>
 {% endfor %}

@@ -21,3 +21,8 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+
+/* Fix clash between LinkedIn Logo blue and primary blue above */
+.fa-linkedin {
+  color: black !important;
+}

@@ -21,6 +21,14 @@ Alumni chapter website
 
 ## Jekyll Theme
 
-This site is based off of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). Documentation is available [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+This site is based off of [Minimal Mistakes][minmistakes]. Documentation is available [here][mindoc].
 
 So far any css changes have been confined to the custom theme 'pkp' at `./_sass/minimal-mistakes/skins/_pkp.scss` so that we retain compatibility with the main theme in case we want to take updates from the main project. The theme is set via  `_config.yml`.
+
+## Accessibility
+
+The accessibility widget (bottom right corner) is an add-on from [UserWay][userway] and is configured in the footer via `./_includes/footer/custom.html`
+
+[userway]: https://userway.org/
+[minmistakes]: https://mmistakes.github.io/minimal-mistakes/
+[mindoc]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

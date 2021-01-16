@@ -5,4 +5,4 @@ layout: single
 
 The list of Theta Psi alumni chapter members.
 
-{% include member_table.md %}
+{% include member_table.html %}

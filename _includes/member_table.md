@@ -5,4 +5,5 @@
 | {{ member.name }} | {{ member.initiation_number }} | <i class='fab fa-linkedin'></i> [Connect]({{ member.linkedin_url }}) |
     {% else %}
 | {{ member.name }} | {{ member.initiation_number }} | |
+    {% endif %}
 {% endfor %}

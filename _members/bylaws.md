@@ -1,6 +1,9 @@
 ---
 title: "Bylaws"
 layout: single
+bylaw_asset: /assets/md/bylaws.md
 ---
 
-Bylaws can be downloaded in PDF format [here](/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf).
+{% if page.bylaw_asset %}
+  {% include {{ page.bylaw_asset }} %}
+{% endif %}

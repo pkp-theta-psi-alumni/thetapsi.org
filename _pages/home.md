@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/mansion01.jpg
   actions:
     - label: "<i class='fas fa-gift'></i> Donate"
-      url: "https://paypal.com"
+      url: "/donate"
 excerpt: >
   The Theta Psi Alumni chapter of Pi Kappa Phi at RIT.
 feature_row:

@@ -134,7 +134,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/orgs/pkp-theta-psi-alumni"
 
-
+# Donation Links
+donate_general: https://www.paypal.com/donate?hosted_button_id=YR7HRB5XCVHNJ
+donate_53fund: https://www.paypal.com/donate/?hosted_button_id=69SJ3XEVEWW2N
 
 # Reading Files
 include:

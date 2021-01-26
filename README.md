@@ -8,35 +8,40 @@
 
 Alumni chapter website.
 
-**Table of Contents**
+## Table of Contents
 
 * [Web Resources](#web-resources)
 * [Jekyll Theme](#jekyll-theme)
 * [Accessibility](#accessibility)
 
-## Web Resources
+### Web Resources
 
 * Stock images: https://pikapp.org/wp-content/themes/pikappaphi/dist/assets/images/
 * Brand guide: https://pikapp.org/wp-content/uploads/2020/07/PKP-BrandGuidelines-v1.1.pdf
 * Visual Identity: https://pikapp.org/about/visual-identity/
 
-### Pi Kappa Phi Colors
+#### Pi Kappa Phi Colors
 
 | Name | RGB | Hex | Preview |
 | ---- | --- | --- | ------- |
 | PKP Blue | 0,85,150,21 | #005596 | ![blue preview](https://img.shields.io/badge/-Preview-005596) |
 | PKP Gold | 0,32,100,9 | #E7A614 | ![gold preview](https://img.shields.io/badge/-Preview-E7A614) |
-| PKP White | 0,0,0,0 | #FFFFFF | ![white preview](https://img.shields.io/badge/-Preview-FFFFFF) | 
+| PKP White | 0,0,0,0 | #FFFFFF | ![white preview](https://img.shields.io/badge/-Preview-FFFFFF) |
 
-## Jekyll Theme
+### Jekyll Theme
 
-This site is based off of [Minimal Mistakes][minmistakes]. Documentation is available [here][mindoc].
+This site is based off of [Minimal Mistakes][minmistakes]. Documentation is
+available [here][mindoc].
 
-So far any css changes have been confined to the custom theme 'pkp' at `./_sass/minimal-mistakes/skins/_pkp.scss` so that we retain compatibility with the main theme in case we want to take updates from the main project. The theme is set via  `_config.yml`.
+So far any css changes have been confined to the custom theme 'pkp' at
+`./_sass/minimal-mistakes/skins/_pkp.scss` so that we retain compatibility with
+the main theme in case we want to take updates from the main project. The theme
+is set via  `_config.yml`.
 
-## Accessibility
+### Accessibility
 
-The accessibility widget (bottom right corner) is an add-on from [UserWay][userway] and is configured in the footer via `./_includes/footer/custom.html`
+The accessibility widget (bottom right corner) is an add-on from [UserWay][userway]
+and is configured in the footer via `./_includes/footer/custom.html`
 
 [userway]: https://userway.org/
 [minmistakes]: https://mmistakes.github.io/minimal-mistakes/

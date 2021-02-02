@@ -19,3 +19,4 @@
 # Rules by id #
 ###############
 MD024: false # no-duplicate-heading
+MD034: false # no-bare-urls

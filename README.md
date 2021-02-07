@@ -1,6 +1,6 @@
 # thetapsi.org
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/pkp-theta-psi-alumni/thetapsi.org/main)
@@ -57,6 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/csanders-git"><img src="https://avatars.githubusercontent.com/u/4632287?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chaim Sanders</b></sub></a><br /><a href="#security-csanders-git" title="Security">🛡️</a> <a href="#content-csanders-git" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/naturalorang3"><img src="https://avatars.githubusercontent.com/u/16523507?v=4?s=100" width="100px;" alt=""/><br /><sub><b>naturalorang3</b></sub></a><br /><a href="#userTesting-naturalorang3" title="User Testing">📓</a></td>
   </tr>
 </table>
 

@@ -20,13 +20,3 @@ at their respective email address.
 Interested in showing your colors online?
 Join our [online groups](../get-involved/#online)
 to stay in touch.
-
-## Undergraduate Contact
-
-The Theta Psi chapter house can be found at:
-
-Pi Kappa Phi Fraternity
-
-624 Charters Way
-
-Rochester, NY 14623
